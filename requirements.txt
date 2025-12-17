@@ -1,2 +1,2 @@
-gunicorn
-sqlalchemy
+gunicorn==23.0.0
+sqlalchemy==2.0.44
