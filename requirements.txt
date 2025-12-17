@@ -2,3 +2,4 @@ gunicorn==23.0.0
 sqlalchemy==2.0.44
 flask-jwt-extended
 flask==3.1.2
+flask_cors==6.0.1
